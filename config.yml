@@ -23,7 +23,7 @@ modules:
     enable: true # 是否启用自定义模块下载，默认禁用
     list:
     - name: "Qfun" # 示例：QStory
-      download_link: "https://github.com/Xposed-Modules-Repo/me.yxp.qfun/releases/download/26-1.3.4/QFun_1.3.4.apk"
+      url: "https://github.com/Xposed-Modules-Repo/me.yxp.qfun/releases/download/26-1.3.4/QFun_1.3.4.apk"
   # - name: "模块名称"
   #   download_link: "下载链接"
   # 参考上述模板即可添加多个自定义模块（注意对齐空格）
